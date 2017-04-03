@@ -1,5 +1,5 @@
 {
-  "name": "mocha-chai-supertest",
+  "name": "mocha-chai-supertest-starter",
   "version": "1.0.0",
   "description": "Application using Mocha, Chai and Supertest",
   "keywords": [
