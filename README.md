@@ -5,7 +5,7 @@ Application using Mocha, Chai and Supertest
 ## Clone the repo:
 
 ```sh
-git clone https://github.com/ProgrammersIT/mocha-chai-supertest-starter.git
+git clone https://github.com/pedrobarrostech/mocha-chai-supertest-starter.git
 cd mocha-chai-supertest-starter
 ```
 
