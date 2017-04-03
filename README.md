@@ -6,7 +6,7 @@ Application using Mocha, Chai and Supertest
 
 ```sh
 git clone https://github.com/ProgrammersIT/mocha-chai-supertest-starter.git
-cd /mocha-chai-supertest-starter
+cd mocha-chai-supertest-starter
 ```
 
 ## Installing:
