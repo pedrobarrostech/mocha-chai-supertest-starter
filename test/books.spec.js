@@ -25,7 +25,6 @@
           year: 1954,
           pages: 1170
         }
-        done();
 
         server
           .post('books')
