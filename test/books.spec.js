@@ -8,7 +8,7 @@
   const server = supertest.agent('http://localhost:8080');
 
   describe('Book Service Test', () => {
-    let listOfIds = [];
+ 
     /**
      *
      **  Create New Books:
